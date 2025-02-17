@@ -73,7 +73,6 @@ header {
   background-color: #fff;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
-
 section {
   min-height: 100vh;
   padding: 2rem 9%;
@@ -87,34 +86,6 @@ section {
 .heading span {
   color: rgb(115, 3, 167);
 }
-.visitor-counter {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 6px 12px;
-  font-size: 14px;
-  font-weight: 600;
-  color: #000000;
-  background: rgba(255, 255, 255, 0.15);
-  border-radius: 20px;
-  box-shadow: 0 2px 10px rgba(255, 255, 255, 0.2);
-  transition: all 0.3s ease-in-out;
-  cursor: default;
-  /* Absolute position places it at top-right of the header (which is fixed) */
-  position: absolute;
-  right: 20px;
-  top: 15px;
-  margin-right: 600px;
-}
-.visitor-counter i {
-  color: #f8d210; /* Eye icon color */
-  font-size: 16px;
-}
-.visitor-counter:hover {
-  background: rgba(255, 255, 255, 0.25);
-  transform: scale(1.05);
-}
-
 header .logo {
   font-size: 1.9rem;
   font-weight: 800;
@@ -127,12 +98,6 @@ header .logo i {
 header .logo:hover {
   color: #fc8c05;
 }
-
-  header .navbar {
-    margin-left: -3000px; /* Adjust the value as needed */
-  
-  
-}
 header .navbar ul {
   list-style: none;
   display: flex;
@@ -140,7 +105,7 @@ header .navbar ul {
   align-items: center;
 }
 header .navbar li {
-  margin-left: 3.5rem;
+  margin-left: 2.5rem;
 }
 header .navbar ul li a {
   font-size: 1.57rem;
@@ -156,6 +121,9 @@ header .navbar ul li a:hover {
   border-bottom: 0.2rem solid #011aff;
   padding: 0.5rem 0;
 }
+/* navbar ends */
+
+/* hamburger icon starts*/
 #menu {
   font-size: 3rem;
   cursor: pointer;

@@ -59,7 +59,11 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
+<<<<<<< HEAD
             document.title = "Portfolio | Bhavuk ";
+=======
+            document.title = "Portfolio | Bhavuk";
+>>>>>>> 1589925ae765696a66d4385e728d5f53a6d26d97
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {

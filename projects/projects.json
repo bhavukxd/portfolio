@@ -2,7 +2,7 @@
   {
     "name": "Stock Market Analysis",
     "desc": "Analyzed trends and patterns in stock data using Python and data visualization libraries.",
-    "image": "stock.png",
+    "image": "assets/images/projects/stock.png",
     "category": "data-science",
     "links": {
       "view": "#",
@@ -12,7 +12,7 @@
   {
     "name": "Disney Pixar Dashboard",
     "desc": "Built an interactive Power BI dashboard analyzing Disney and Pixar movie metrics.",
-    "image": "disney.png",
+    "image": "assets/images/projects/disney.png",
     "category": "data-visualization",
     "links": {
       "view": "#",
@@ -22,7 +22,7 @@
   {
     "name": "2048 AI Game Solver",
     "desc": "Developed an AI agent that plays the 2048 game using heuristic search strategies.",
-    "image": "2048.jpeg",
+    "image": "assets/images/projects/2048.jpeg",
     "category": "ai",
     "links": {
       "view": "#",
@@ -32,7 +32,7 @@
   {
     "name": "Hand Gesture Deep Learning",
     "desc": "Trained a CNN model to recognize hand gestures for real-time interaction using webcam input.",
-    "image": "hand.jpeg",
+    "image": "assets/images/projects/hand.jpeg",
     "category": "deep-learning",
     "links": {
       "view": "#",
@@ -42,7 +42,7 @@
   {
     "name": "LinkedIn Data Analysis",
     "desc": "Performed user behavior and connection pattern analysis using LinkedIn data scraping.",
-    "image": "linke.jpeg",
+    "image": "assets/images/projects/linke.jpeg",
     "category": "data-analysis",
     "links": {
       "view": "#",
@@ -52,7 +52,7 @@
   {
     "name": "Medical Chatbot Generative AI",
     "desc": "Created a generative AI chatbot to provide medical info using LLMs and context-aware retrieval.",
-    "image": "medic.jpeg",
+    "image": "assets/images/projects/medic.jpeg",
     "category": "generative-ai",
     "links": {
       "view": "#",

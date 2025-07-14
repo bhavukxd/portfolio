@@ -32,7 +32,7 @@
   {
     "name": "Hand Gesture Deep Learning",
     "desc": "Trained a CNN model to recognize hand gestures for real-time interaction using webcam input.",
-    "image": "assets/images/projects/hand.jpeg",
+    "image": "/assets/images/projects/hand.jpeg",
     "category": "deep-learning",
     "links": {
       "view": "#",

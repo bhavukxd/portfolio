@@ -1,8 +1,10 @@
-[
+{
+  "title": "All My Projects",
+  "projects": [
     {
       "name": "Stock Market Analysis",
       "desc": "Stock Market Analysis",
-      "image": "https://via.placeholder.com/300x200?text=Stock+Market+Analysis",
+      "image": "https://images.unsplash.com/photo-1581078492584-2fecd0f3d7f4", 
       "category": "data-science",
       "links": {
         "view": "#",
@@ -12,7 +14,7 @@
     {
       "name": "Disney Pixar Dashboard",
       "desc": "Disney Pixar Dashboard",
-      "image": "https://via.placeholder.com/300x200?text=Disney+Pixar+Dashboard",
+      "image": "https://images.unsplash.com/photo-1590608897129-79bf48d33c36",
       "category": "data-visualization",
       "links": {
         "view": "#",
@@ -22,7 +24,7 @@
     {
       "name": "2048 AI Game Solver",
       "desc": "2048 AI Game Solver",
-      "image": "https://via.placeholder.com/300x200?text=2048+AI+Solver",
+      "image": "https://images.unsplash.com/photo-1587613750200-5a69a72ecf90",
       "category": "ai",
       "links": {
         "view": "#",
@@ -32,7 +34,7 @@
     {
       "name": "Hand Gesture Deep Learning",
       "desc": "Hand Gesture Deep Learning",
-      "image": "https://via.placeholder.com/300x200?text=Hand+Gesture+DL",
+      "image": "https://images.unsplash.com/photo-1581091870620-5d55c3c67af4",
       "category": "deep-learning",
       "links": {
         "view": "#",
@@ -42,7 +44,7 @@
     {
       "name": "LinkedIn Data Analysis",
       "desc": "LinkedIn Data Analysis",
-      "image": "https://via.placeholder.com/300x200?text=LinkedIn+Data+Analysis",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
       "category": "data-analysis",
       "links": {
         "view": "#",
@@ -52,7 +54,7 @@
     {
       "name": "Medical Chatbot Generative AI",
       "desc": "Medical Chatbot Generative AI",
-      "image": "https://via.placeholder.com/300x200?text=Medical+Chatbot+AI",
+      "image": "https://images.unsplash.com/photo-1580281657524-177d60f7e486",
       "category": "generative-ai",
       "links": {
         "view": "#",
@@ -60,3 +62,4 @@
       }
     }
   ]
+}

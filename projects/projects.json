@@ -1,6 +1,4 @@
-{
-  "title": "All My Projects",
-  "projects": [
+[
     {
       "name": "Stock Market Analysis",
       "desc": "Stock Market Analysis",
@@ -62,4 +60,3 @@
       }
     }
   ]
-}

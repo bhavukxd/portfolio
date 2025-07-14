@@ -22,7 +22,7 @@
   {
     "name": "2048 AI Game Solver",
     "desc": "Developed an AI agent that plays the 2048 game using heuristic search strategies.",
-    "image": "assets/images/projects/2048.jpeg",
+    "image": "../assets/images/projects/2048.jpeg",
     "category": "ai",
     "links": {
       "view": "#",

@@ -2,7 +2,7 @@
     {
       "name": "Stock Market Analysis",
       "desc": "Stock Market Analysis",
-      "image": "https://images.unsplash.com/photo-1581078492584-2fecd0f3d7f4", 
+      "image": "stock", 
       "category": "data-science",
       "links": {
         "view": "#",

@@ -12,7 +12,7 @@
   {
     "name": "Disney Pixar Dashboard",
     "desc": "Built an interactive Power BI dashboard analyzing Disney and Pixar movie metrics.",
-    "image": "assets/images/projects/disney.png",
+    "image": "assets/images/projects/disney",
     "category": "data-visualization",
     "links": {
       "view": "#",
